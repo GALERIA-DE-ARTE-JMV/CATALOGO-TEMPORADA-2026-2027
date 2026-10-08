@@ -2,11 +2,13 @@
 
 Catálogo digital da Galeria de Arte JMV, temporada 2026/2027.
 
-Projeto do **CTPM José Mauro de Vasconcelos**, escola pública da PMMG, que reúne a digitalização das obras produzidas pelos alunos, com as referências de cada uma (título, autor, turma, técnica e ano).
-
+Projeto do **CTPM José Mauro de Vasconcelos**, escola pública da PMMG, que reúne a digitalização das obras produzidas pelos alunos, com as referências de cada uma.
+TEMAS SUGERIDOS PARA ELABORAÇÃO DAS OBRAS DA TEMPORADA 2026/2027 DA GALERIA DE ARTE
+    • REINTERPRETANDO CLÁSSICOS DA ARTE MUNDIAL
+    • HISTÓRIAS DO POVO BRASILEIRO
 ## Como acessar
 
-- **Catálogo completo:** https://galeria-de-arte-jmv.github.io/catalogo-2026-2027/
+- **Catálogo completo:** 
   Abra o link e role a página para ver todas as 38 obras.
 - **Obras individuais:** cada obra tem um link próprio, na pasta `imagens/`.
 - **Versão em alta resolução:** disponível no Internet Archive (archive.org).
@@ -26,11 +28,12 @@ catalogo-2026-2027/
 
 Cada obra é catalogada com:
 
-- Título
+
 - Autor(a)
-- Turma
+- Título
 - Técnica
-- Ano
+- Obra inspiradora
+- 
 
 ## Licenças
 
