@@ -7,7 +7,7 @@ Projeto do **CTPM José Mauro de Vasconcelos**, escola pública da PMMG, que re�
 ## Como acessar
 
 - **Catálogo completo:** https://galeria-de-arte-jmv.github.io/catalogo-2026-2027/
-  Abra o link e role a página para ver todas as 40 obras.
+  Abra o link e role a página para ver todas as 38 obras.
 - **Obras individuais:** cada obra tem um link próprio, na pasta `imagens/`.
 - **Versão em alta resolução:** disponível no Internet Archive (archive.org).
 
